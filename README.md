@@ -118,3 +118,6 @@ Test execution reports are generated using:
 
 
 Sample run GIF:
+
+
+![alt text](https://github.com/akshatakm/TwitchSelenium/blob/main/screenshots/Twitchrecording.gif#:~:text=screenshots-,Twitchrecording,-.gif)
